@@ -2,7 +2,6 @@ public class palindrome {
     public boolean isPalindrome(String s) {
         char[] str = s.toCharArray();
 
-        // Remove non-alphanumeric characters from the char array
         int writeIndex = 0;
         for (int readIndex = 0; readIndex < str.length; readIndex++) {
             if (Character.isLetterOrDigit(str[readIndex])) {
@@ -10,7 +9,6 @@ public class palindrome {
                 writeIndex++;
             }
         }
-        // Create a new char array with only alphanumeric characters
         char[] cleanStr = new char[writeIndex];
         System.arraycopy(str, 0, cleanStr, 0, writeIndex);
         str = cleanStr;
@@ -23,7 +21,6 @@ public class palindrome {
 
            counter++;
         }
-
         return true;
     }
     public static void main(String[] args){

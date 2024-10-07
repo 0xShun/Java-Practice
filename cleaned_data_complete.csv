@@ -1,0 +1,12 @@
+Gender,Race,Birth_Year,Marital_Status,Years_on,Hours_Per_Day,Preferred_Browser,Preferred_Search_Engine,Preferred_Email,Read_News,Online_Shopping,Online_Gaming,Facebook,Twitter,Other_Social_Network
+M,White,1972,M,8,1,Firefox,Google,Yahoo,Y,Y,N,Y,Y,N
+F,Hispanic,1981,S,14,2,Chrome,Google,Hotmail,Y,N,N,Y,N,LinkedIn
+F,African,1977,S,6,2,Firefox,Yahoo,Yahoo,Y,N,Y,N,Y,N
+M,White,1961,D,9,3,Firefox,Yahoo,Hotmail,Y,Y,N,Y,N,N
+M,African,1982,D,11,4,Internet Explorer,Bing,Hotmail,Y,N,N,N,N,LinkedIn
+M,African,1970,M,15,1,Firefox,Google,Yahoo,Y,Y,Y,Y,N,N
+F,African,1975,S,9,3,Internet Explorer,Yahoo,Gmail,Y,N,Y,N,Y,LinkedIn
+M,White,1959,D,12,5,Safari,Yahoo,Yahoo,Y,N,N,N,N,MySpace
+F,Hispanic,1969,D,12,5,Chrome,Google,Gmail,Y,Y,N,Y,N,Google+
+M,White,1967,S,5,4,Internet Explorer,Google,Gmail,Y,N,Y,Y,Y,LinkedIn
+F,African,1979,M,13,2,Firefox,Yahoo,Yahoo,Y,Y,Y,N,Y,Google+
