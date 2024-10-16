@@ -6,7 +6,11 @@ class AnagramGroups {
         char[] one = one.toCharArray();
         char[] two = two.toCharArray();
         Boolean flag = true;
-        int 
+        int len = one.length - 1;
+
+        for(int i = 0; i < one.length; i++){
+            if()
+        }
     }
 
     public List<List<String>> groupAnagrams(String[] strs) {

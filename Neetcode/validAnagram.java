@@ -1,7 +1,7 @@
 public class validAnagram {
 
     public int maxProfit(int[] prices) {
-        
+            
     }
 
     public static Boolean isValidAnagram(String str){
